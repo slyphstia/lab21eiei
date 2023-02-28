@@ -105,7 +105,6 @@ int Unit:: heal(){
 }
 else if(hp==hpmax){
 	f=0 ;
-	
 }
 hp+= f ;
 return f;
